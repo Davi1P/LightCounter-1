@@ -47,6 +47,7 @@ body{
     flex-direction: column;
     padding-left: 1rem;
     padding-right: 1rem;
+    margin-bottom: 5rem;
 }
 
 .wrapper h1::before{
